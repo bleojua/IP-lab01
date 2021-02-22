@@ -1,5 +1,5 @@
 # IP-lab01
 II-B1
 Zoo - 
-Yildirim Erdem
+Yildirim Erdem & 
 Bleoju Adrian-Petru 
